@@ -1,15 +1,4 @@
-# Node modules
 node_modules/
-
-# Playwright reports
-/test-results/
+allure-results/
+test-results/
 playwright-report/
-blob-report/
-playwright/.cache/
-
-# Environment files
-# .env
-
-
-/allure-report/
-/allure-results/
