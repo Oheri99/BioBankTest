@@ -1,0 +1,376 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - button "Main menu" [expanded]:
+    - img
+  - link "Keep":
+    - /url: "#"
+  - search:
+    - combobox "Search"
+    - button "Search":
+      - img
+  - button "List view"
+  - button "Settings"
+  - button "Google apps":
+    - img
+  - 'button "Google Account: UK-BioBank-Test (ukbiobanktest190@gmail.com)"'
+- tab "Notes":
+  - img
+  - text: Notes
+- tab "Reminders":
+  - img
+  - text: Reminders
+- tab "L1":
+  - img
+  - text: L1
+- tab "Edit Labels":
+  - img
+  - text: Edit labels
+- tab "Archive":
+  - img
+  - text: Archive
+- tab "Trash":
+  - img
+  - text: Trash
+- link "Open-source licenses":
+  - /url: https://ssl.gstatic.com/keep/licenses/web_client_licenses.txt
+- combobox
+- text: Take a note…
+- button "New list"
+- button "New note with image"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- text: content 2
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- text: content
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- text: bhbjhbjbljblkjbkjb njjbn nbn njbn
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- button "Select note"
+- button "Pin note"
+- textbox
+- toolbar:
+  - button "Background options"
+  - button "Remind me"
+  - button "Collaborator"
+  - button "Add image"
+  - button "Archive"
+  - button "More"
+- region
+```

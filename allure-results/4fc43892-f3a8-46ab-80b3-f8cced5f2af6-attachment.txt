@@ -1,0 +1,2 @@
+Login page loaded in 2226 ms
+Login completed in 5608 ms
