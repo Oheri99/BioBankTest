@@ -33,7 +33,7 @@ class KeepHomePage {
         return await this.page.isVisible(this.newNoteField);
     }
 
-    // Creates a new note with the specified title and body
+    // Creates a new note with the specified title and body just added
     async createNote(title, body) {
         await this.page.click(this.newNoteField); // Focus the "New Note" input
         await this.noteTitleInput.fill(title); // Fill in the note title

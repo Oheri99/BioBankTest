@@ -18,6 +18,7 @@
     "allure-playwright": "^2.15.1"
   },
   "dependencies": {
+    "@browserbasehq/stagehand": "^3.1.0",
     "dotenv": "^17.2.1"
   }
 }
